@@ -12,7 +12,7 @@
 <p><a href="https://github.com/selvamraja700">GitHub</a></p>
 </td>
 <td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/195407586?u=ac8c4ca3c142ec087718f0a5c9221857f27c2e65&amp;v=4" width="180" alt="selvam GitHub avatar" />
+<img src="https://ik.imagekit.io/Selvamraj700/MineCraftImage.png" width="180" alt="selvam Minecraft profile avatar" />
 </td>
 </tr>
 </table>
@@ -42,10 +42,7 @@
 </table>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="selvam GitHub proof metrics" />
-</picture>
+<img src="https://www.gitskins.com/api/section/stats?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-stats-1&mode=dark" width="100%" alt="selvam GitHub proof metrics" />
 </p>
 
 <h2>Selected work</h2>
@@ -53,10 +50,7 @@
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&repos=selvamraja700%2Fzgeowebapplatest%2Cselvamraja700%2FJOB_AI%2Cselvamraja700%2FShopSphere%2Cselvamraja700%2FMca_ProjectFinal&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&repos=selvamraja700%2Fzgeowebapplatest%2Cselvamraja700%2FJOB_AI%2Cselvamraja700%2FShopSphere%2Cselvamraja700%2FMca_ProjectFinal&v=recruiter-projects-1&mode=dark" width="100%" alt="selvam selected projects" />
-</picture>
+<img src="https://www.gitskins.com/api/section/projects?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&repos=selvamraja700%2Fzgeowebapplatest%2Cselvamraja700%2FJOB_AI%2Cselvamraja700%2FShopSphere%2Cselvamraja700%2FMca_ProjectFinal&v=recruiter-projects-1&mode=dark" width="100%" alt="selvam selected projects" />
 </td>
 <td width="42%" valign="top">
 <h3><a href="https://github.com/selvamraja700/zgeowebapplatest">zgeowebapplatest</a></h3>
@@ -78,10 +72,7 @@
 <h2>Technical toolkit</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="selvam technology stack" />
-</picture>
+<img src="https://www.gitskins.com/api/section/stack?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-stack-1&mode=dark" width="100%" alt="selvam technology stack" />
 </p>
 
 <table width="100%">
@@ -97,10 +88,7 @@
 <h2>Consistency signal</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195407586%3Fu%3Dac8c4ca3c142ec087718f0a5c9221857f27c2e65%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="selvam contribution activity" />
-</picture>
+<img src="https://www.gitskins.com/api/section/heatmap?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-heatmap-1&mode=dark" width="100%" alt="selvam contribution activity" />
 </p>
 
 <hr />
