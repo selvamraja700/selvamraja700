@@ -1,103 +1,72 @@
-<div align="center">
+ <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · selvamraja700</sub></p>
-<h1>selvam</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Consistency beats talent.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in Tirunelveli</sub></p>
-<p><a href="https://github.com/selvamraja700">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://ik.imagekit.io/Selvamraj700/MineCraftImage.png" width="180" alt="selvam Minecraft profile avatar" />
-</td>
-</tr>
-</table>
+<img src="https://ik.imagekit.io/Selvamraj700/MineCraftImage.png" width="150" alt="Selvam Minecraft Avatar" />
+
+# SELVAM
+
+### Backend Engineer
+
+Building reliable backend systems and solving real-world engineering problems.
+
+[GitHub](https://github.com/selvamraja700) · [Repositories](https://github.com/selvamraja700?tab=repositories)
+
+📍 Tirunelveli, Tamil Nadu, India
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · Python · JavaScript · C++</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>38 repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>134 contributions · 35 active days</p></td>
-</tr>
-</table>
+## About Me
 
-<p><sub>Consistency beats talent.</sub></p>
+I'm a developer focused on backend engineering, problem-solving, and building practical software applications.
 
-<h2>Proof at a glance</h2>
+- Focused on Java backend development.
+- Learning and building applications using Spring and Spring Boot.
+- Working with Python for backend development.
+- Interested in database design and system architecture.
+- Practicing Data Structures and Algorithms.
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>38</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>134</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## Technical Skills
 
-<p align="center">
-<img src="https://www.gitskins.com/api/section/stats?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-stats-1&mode=dark" width="100%" alt="selvam GitHub proof metrics" />
-</p>
+| Category | Technologies |
+|---|---|
+| Programming Languages | Java, Python, SQL |
+| Backend Frameworks | Spring, Spring Boot, Flask, FastAPI |
+| Databases | MySQL, MongoDB |
+| Operating Systems | Linux |
+| Tools | Git, GitHub |
+| Core Concepts | OOP, DSA, DBMS, REST APIs |
 
-<h2>Selected work</h2>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<img src="https://www.gitskins.com/api/section/projects?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&repos=selvamraja700%2Fzgeowebapplatest%2Cselvamraja700%2FJOB_AI%2Cselvamraja700%2FShopSphere%2Cselvamraja700%2FMca_ProjectFinal&v=recruiter-projects-1&mode=dark" width="100%" alt="selvam selected projects" />
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/selvamraja700/zgeowebapplatest">zgeowebapplatest</a></h3>
-<p>A selected public project.</p>
-<p><sub>JavaScript · ⭐ 1 · 🍴 0</sub></p>
-<p><a href="https://github.com/selvamraja700/zgeowebapplatest">Read the repository →</a></p>
-</td>
-</tr>
-</table>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3><a href="https://github.com/selvamraja700/JOB_AI">JOB_AI</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/selvamraja700/ShopSphere">ShopSphere</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
-<td width="33%" valign="top"><h3><a href="https://github.com/selvamraja700/Mca_ProjectFinal">Mca_ProjectFinal</a></h3><p>A selected public project.</p><p><sub>Python · ⭐ 0</sub></p></td>
-</tr>
-</table>
-
-<h2>Technical toolkit</h2>
+## Tech Stack
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/stack?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-stack-1&mode=dark" width="100%" alt="selvam technology stack" />
+  <img src="https://skillicons.dev/icons?i=java,python,spring,mysql,mongodb,linux,git,github" alt="Backend Technology Stack" />
 </p>
 
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>82% of public code</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>10% of public code</sub></td>
-<td width="20%" align="center"><strong>C++</strong><br /><sub>3% of public code</sub></td>
-<td width="20%" align="center"><strong>C</strong><br /><sub>2% of public code</sub></td>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>1% of public code</sub></td>
-</tr>
-</table>
+## Selected Projects
 
-<h2>Consistency signal</h2>
+- [zgeowebapplatest](https://github.com/selvamraja700/zgeowebapplatest)
+- [JOB_AI](https://github.com/selvamraja700/JOB_AI)
+- [ShopSphere](https://github.com/selvamraja700/ShopSphere)
+- [Mca_ProjectFinal](https://github.com/selvamraja700/Mca_ProjectFinal)
+
+## GitHub Statistics
 
 <p align="center">
-<img src="https://www.gitskins.com/api/section/heatmap?username=selvamraja700&theme=github-dark&avatar=https%3A%2F%2Fik.imagekit.io%2FSelvamraj700%2FMineCraftImage.png&v=recruiter-heatmap-1&mode=dark" width="100%" alt="selvam contribution activity" />
+  <img src="https://github-readme-stats.vercel.app/api?username=selvamraja700&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selvamraja700&theme=github-dark-blue&hide_border=true" height="165" />
 </p>
 
-<hr />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=selvamraja700&theme=github-compact&hide_border=true" width="100%" />
+</p>
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/selvamraja700">GitHub</a></td>
-</tr>
-</table>
+---
 
-<p align="center"><sub>selvam · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<div align="center">
+
+**Consistency beats talent.**
+
+*Learning. Building. Improving.*
+
+</div>
